@@ -31,8 +31,8 @@ This is an E-commerece project for buying books online where admin can add the a
   - Order Tracking
   - Bill Printing Functionality
   
-## DEMO 
-> DEMO USER INTERFACE https://bit.ly/3coKR7z
+<!-- ## DEMO 
+> DEMO USER INTERFACE https://bit.ly/3coKR7z -->
 
 
 
